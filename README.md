@@ -22,12 +22,11 @@ const dren = {
 ### 💻 projects using only HTML & CSS / SCSS
 > These projects are for the **freeCodeCamp** *Responsive Web Design Certification*.
 
-**Tribute Page**      ∙      **Survey Form**      ∙      **Documentation Page**      ∙      **Landing Page**      ∙      **Personal Porfolio**  
- { [Code](https://github.com/DrenSkywalker/tribute_page) ∙ [Live](https://drenskywalker.github.io/tribute_page/) }         
- { [Code](https://github.com/DrenSkywalker/survey_form) ∙ [Live](https://drenskywalker.github.io/survey_form/) }                     
- { [Code](https://github.com/DrenSkywalker/documentation_page) ∙ [Live](https://drenskywalker.github.io/documentation_page/) }                         
- { [Code](https://github.com/DrenSkywalker/landing_page) ∙ [Live](https://drenskywalker.github.io/landing_page/) }                 
- { [Code](https://github.com/DrenSkywalker/personal_portfolio) ∙ [Live](https://drenskywalker.github.io/personal_portfolio/) }
+* { [Code](https://github.com/DrenSkywalker/tribute_page) ∙ [Live](https://drenskywalker.github.io/tribute_page/) } **Tribute Page**
+* { [Code](https://github.com/DrenSkywalker/survey_form) ∙ [Live](https://drenskywalker.github.io/survey_form/) } **Survey Form**
+* { [Code](https://github.com/DrenSkywalker/documentation_page) ∙ [Live](https://drenskywalker.github.io/documentation_page/) } **Documentation Page**
+* { [Code](https://github.com/DrenSkywalker/landing_page) ∙ [Live](https://drenskywalker.github.io/landing_page/) } **Landing Page**
+* { [Code](https://github.com/DrenSkywalker/personal_portfolio) ∙ [Live](https://drenskywalker.github.io/personal_portfolio/) } **Personal Portfolio**
 
 
 ### 💻 projects using JS
