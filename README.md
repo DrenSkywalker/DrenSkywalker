@@ -36,6 +36,6 @@ const dren = {
 ### 💻 projects using JS
 > These projects are for learning purpose.
 
-**Local Login System**      ∙      **Quotes Generator**  
-         { [Code](https://github.com/DrenSkywalker/local-login-system) ∙ [Live](https://drenskywalker.github.io/local-login-system/) }                          
-{ [Code](https://github.com/DrenSkywalker/quotes-generator) ∙ [Live](https://drenskywalker.github.io/quotes-generator/) }
+* { [Code](https://github.com/DrenSkywalker/local-login-system) ∙ [Live](https://drenskywalker.github.io/local-login-system/) } **Local Login System**
+* { [Code](https://github.com/DrenSkywalker/quotes-generator) ∙ [Live](https://drenskywalker.github.io/quotes-generator/) } **Quotes Generator**
+* { [Code](https://github.com/DrenSkywalker/todo-list) ∙ [Live](https://drenskywalker.github.io/todo-list/) } **To-Do List**
