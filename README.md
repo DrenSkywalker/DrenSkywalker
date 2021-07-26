@@ -4,8 +4,7 @@
 
 The name's DrenSkywalker but you can call me Dren! Here you will find my projects and exercises. Feel free to contact me if you need ✨
 
-<img src="https://img.shields.io/badge/animals-green?style=flat&logo=furrynetwork&logoColor=white"> <img src="https://img.shields.io/badge/psychology-ff69b4?style=flat&logo=octopusdeploy&logoColor=white"> <img src="https://img.shields.io/badge/videogames-red?style=flat&logo=retroarch&logoColor=white">
-
+<img src="https://img.shields.io/badge/animals-green?style=flat&logo=furrynetwork&logoColor=white"> <img src="https://img.shields.io/badge/psychology-ff69b4?style=flat&logo=octopusdeploy&logoColor=white"> <img src="https://img.shields.io/badge/videogames-red?style=flat&logo=retroarch&logoColor=white"> ![](https://komarev.com/ghpvc/?username=DrenSkywalker&color=blue&label=Profile+Views)
 
 
 ### 💫 something about me
@@ -20,7 +19,6 @@ const dren = {
   awesome: true
 }
 ```
-![](https://komarev.com/ghpvc/?username=DrenSkywalker&color=blue&label=Profile+Views)
   
 ## 🚀 some of my works
 
