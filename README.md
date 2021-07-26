@@ -22,8 +22,8 @@ const dren = {
 ```
   
 ## 🚀 some of my works
+<img src="https://i.ibb.co/n1d5WW1/pngwing-com.png" width="340px" align="left">
 
-<img src="https://i.ibb.co/n1d5WW1/pngwing-com.png" width="320px" align="left">
 
 ### 💻 projects using only HTML & CSS / SCSS
 > These projects are for the **freeCodeCamp** *Responsive Web Design Certification*.
