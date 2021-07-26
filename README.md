@@ -20,6 +20,7 @@ const dren = {
   awesome: true
 }
 ```
+![](https://komarev.com/ghpvc/?username=DrenSkywalker&color=blue&label=Profile+Views)
   
 ## 🚀 some of my works
 
