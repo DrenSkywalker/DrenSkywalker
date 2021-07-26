@@ -1,6 +1,6 @@
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&vCenter=true&lines=%F0%9F%A5%91+hi!+i'm+Dren)](https://git.io/typing-svg)
 
-<img src="https://panels-images.twitch.tv/panel-105891320-image-141c8118-2eb5-475a-a6e5-e86fff50b98d" align="right">
+<img src="https://i.ibb.co/tMnL9kz/avgithub.png" align="right">
 
 The name's DrenSkywalker but you can call me Dren! Here you will find my projects and exercises. Feel free to contact me if you need ✨
 
@@ -22,7 +22,7 @@ const dren = {
 ```
   
 ## 🚀 some of my works
-<img src="https://i.ibb.co/n1d5WW1/pngwing-com.png" width="340px" align="left">
+<img src="https://i.ibb.co/d7HtnwF/pngwing-com.png" width="340px" align="left">
 
 
 ### 💻 projects using only HTML & CSS / SCSS
