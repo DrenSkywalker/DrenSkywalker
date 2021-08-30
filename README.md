@@ -14,7 +14,7 @@ const dren = {
   specie: "Humanoid Alien",
   pronouns: "she, her" | "he, him" | "they, them",
   languages: [HTML, CSS, Javascript],
-  tools: [React],
+  tools: [React, Angular],
   awesome: true
 }
 ```
