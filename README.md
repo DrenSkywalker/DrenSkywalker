@@ -36,8 +36,9 @@ const dren = {
 > These projects are for learning purpose.
 
 <a href="https://github.com/DrenSkywalker/local-login-system"><img src="https://img.shields.io/badge/📟%20Login%20System-ff69b4?style=flat-square"></a> <a href="https://drenskywalker.github.io/local-login-system/"><img src="https://img.shields.io/badge/live-💻-blue?style=social"/></a> <a href="https://github.com/DrenSkywalker/quotes-generator"><img src="https://img.shields.io/badge/📟%20Quotes%20Generator-ff69b4?style=flat-square"></a> <a href="https://drenskywalker.github.io/quotes-generator/"><img src="https://img.shields.io/badge/live-💻-blue?style=social"/></a> <a href="https://github.com/DrenSkywalker/todo-list"><img src="https://img.shields.io/badge/📟%20ToDo%20List-ff69b4?style=flat-square"></a> <a href="https://drenskywalker.github.io/todo-list/"><img src="https://img.shields.io/badge/live-💻-blue?style=social"/></a>
+</br></br></br>
 
-### 💻 libraries!
-> These libaries are free to use in your project!
+### 💻 libraries using JS
+> These libraries are free to use in your project!
 
 <a href="https://github.com/DrenSkywalker/react-welcome-onboard"><img src="https://img.shields.io/badge/📟%20Welcome%20Onboard-ff69b4?style=flat-square"></a>  <a href="https://drenskywalker.github.io/react-welcome-onboard/?path=/story/examples--welcome-onboard"><img src="https://img.shields.io/badge/live-💻-blue?style=social"/></a>
