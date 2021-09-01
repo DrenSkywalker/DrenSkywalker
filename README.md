@@ -41,4 +41,4 @@ const dren = {
 ### 💻 libraries using JS
 > These libraries are free to use in your project!
 
-<a href="https://github.com/DrenSkywalker/react-welcome-onboard"><img src="https://img.shields.io/badge/📟%20Welcome%20Onboard-ff69b4?style=flat-square"></a>  <a href="https://drenskywalker.github.io/react-welcome-onboard/?path=/story/examples--welcome-onboard"><img src="https://img.shields.io/badge/live-💻-blue?style=social"/></a>
+<a href="https://github.com/DrenSkywalker/react-welcome-onboard"><img src="https://img.shields.io/badge/📟%20Welcome%20Onboard-6B4AA9?style=flat-square"></a>  <a href="https://drenskywalker.github.io/react-welcome-onboard/?path=/story/examples--welcome-onboard"><img src="https://img.shields.io/badge/live-💻-blue?style=social"/></a>
