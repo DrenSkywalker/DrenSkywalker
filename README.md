@@ -13,7 +13,7 @@ const dren = {
   planet: "Earth",
   specie: "Humanoid Alien",
   pronouns: "she, her" | "he, him" | "they, them",
-  languages: [HTML, CSS, Javascript],
+  languages: [HTML, CSS, Sass, Javascript],
   tools: [React, Angular],
   awesome: true
 }
