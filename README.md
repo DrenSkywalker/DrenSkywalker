@@ -1,8 +1,12 @@
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&vCenter=true&lines=%F0%9F%A5%91+hi!+i'm+Dren)](https://git.io/typing-svg)
+<img src="https://i.ibb.co/SXvY4w7/skyrim-wallpaper-720x1280-pixels.png" align="right" width="350px">
 
-<img src="https://i.ibb.co/tMnL9kz/avgithub.png" align="right">
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Condensed&size=40&pause=1000&vCenter=true&width=435&height=80&lines=Halo%2C+ma+fren.)](https://git.io/typing-svg)
 
-The name's <i>DrenSkywalker</i> but you can call me <b>Dren</b>! I'm a <b>front-end blockchain</b> developer. Feel free to contact me if you need ✨
+
+
+The name's <i>DrenSkywalker</i> but you can call me <b>Dren</b> ~
+
+I'm currently employed and I am a <b>front-end blockchain</b> developer. Feel free to contact me if you need ✨
 
 <p align="center"></br><img src="https://img.shields.io/badge/animals-green?style=flat&logo=furrynetwork&logoColor=white"> <img src="https://img.shields.io/badge/psychology-ff69b4?style=flat&logo=octopusdeploy&logoColor=white"> <img src="https://img.shields.io/badge/videogames-red?style=flat&logo=retroarch&logoColor=white"></p>
 
@@ -12,6 +16,11 @@ The name's <i>DrenSkywalker</i> but you can call me <b>Dren</b>! I'm a <b>front-
 const dren = {
   planet: "Earth",
   specie: "Humanoid Alien",
+  class: "Code Spellcaster",
+  charateristics: [
+    {str: 8}, {dex: 12}, {con: 10},
+    {int: 18}, {wis: 16}, {cha: 8}
+  ],
   pronouns: "she/her" | "he/him" | "they/them",
   languages: [HTML, CSS, Sass, Javascript],
   tools: {
