@@ -2,7 +2,7 @@
 
 <img src="https://i.ibb.co/tMnL9kz/avgithub.png" align="right">
 
-The name's DrenSkywalker but you can call me Dren! Here you will find my projects and exercises. Feel free to contact me if you need ✨
+The name's <i>DrenSkywalker</i> but you can call me <b>Dren</b>! I'm a <b>front-end blockchain</b> developer. Feel free to contact me if you need ✨
 
 <p align="center"></br><img src="https://img.shields.io/badge/animals-green?style=flat&logo=furrynetwork&logoColor=white"> <img src="https://img.shields.io/badge/psychology-ff69b4?style=flat&logo=octopusdeploy&logoColor=white"> <img src="https://img.shields.io/badge/videogames-red?style=flat&logo=retroarch&logoColor=white"></p>
 
