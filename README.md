@@ -6,15 +6,15 @@ The name's <i>DrenSkywalker</i> but you can call me <b>Dren</b>! I'm a <b>front-
 
 <p align="center"></br><img src="https://img.shields.io/badge/animals-green?style=flat&logo=furrynetwork&logoColor=white"> <img src="https://img.shields.io/badge/psychology-ff69b4?style=flat&logo=octopusdeploy&logoColor=white"> <img src="https://img.shields.io/badge/videogames-red?style=flat&logo=retroarch&logoColor=white"></p>
 
-### 💫 something about me
+## 💫 something about me
 
 ```Javascript
 const dren = {
   planet: "Earth",
   specie: "Humanoid Alien",
-  pronouns: "she, her" | "he, him" | "they, them",
+  pronouns: "she/her" | "he/him" | "they/them",
   languages: [HTML, CSS, Sass, Javascript],
-  tools: [React, Angular],
+  tools: [React, Angular, Typescript, Tailwind],
   awesome: true
 }
 ```
