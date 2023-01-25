@@ -6,7 +6,14 @@ The name's <i>DrenSkywalker</i> but you can call me <b>Dren</b> ~
 
 I'm currently employed and I am a <b>front-end blockchain</b> developer. Feel free to contact me if you need ✨
 
-<p align="center"></br><img src="https://img.shields.io/badge/animals-green?style=flat&logo=furrynetwork&logoColor=white"> <img src="https://img.shields.io/badge/psychology-ff69b4?style=flat&logo=octopusdeploy&logoColor=white"> <img src="https://img.shields.io/badge/videogames-red?style=flat&logo=retroarch&logoColor=white"></p>
+<div align="center"></br><img src="https://img.shields.io/badge/animals-green?style=flat&logo=furrynetwork&logoColor=white"> <img src="https://img.shields.io/badge/psychology-ff69b4?style=flat&logo=octopusdeploy&logoColor=white"> <img src="https://img.shields.io/badge/videogames-red?style=flat&logo=retroarch&logoColor=white"></div>
+
+
+<div align="center">
+  
+[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/jrp06vbn5sqaa4a53nbbrvj91)
+
+</div>
 
 ## 💫 Character Sheet
 
