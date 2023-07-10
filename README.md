@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/SXvY4w7/skyrim-wallpaper-720x1280-pixels.png" align="right" width="350px">
+<img src="https://i.ibb.co/XYG7z9d/skyrim-wallpaper-720x1280-pixels.png" align="right" width="350px">
 
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Condensed&size=40&pause=1000&vCenter=true&width=435&height=80&lines=Halo%2C+ma+fren.)](https://git.io/typing-svg)
 
