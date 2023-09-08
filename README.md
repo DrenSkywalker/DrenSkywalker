@@ -14,14 +14,14 @@ I'm currently employed and I am a <b>front-end blockchain</b> developer. Feel fr
 ```Javascript
 const dren = {
   planet: "Earth",
-  specie: "Humanoid Alien",
+  specie: "Humanoid Magic Alien",
   class: "Front-End Devcaster",
   pronouns: "she/her" | "he/him" | "they/them",
   languages: [HTML, CSS, Sass, Javascript],
   equipment: {
     code: [React, Vite, Next.js, Typescript, Tailwind],
     platforms: [Firebase, Supabase]
-  }
+  },
   awesome: true
 }
 ```
