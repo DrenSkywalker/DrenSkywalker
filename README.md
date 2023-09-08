@@ -19,7 +19,7 @@ const dren = {
   pronouns: "she/her" | "he/him" | "they/them",
   languages: [HTML, CSS, Sass, Javascript],
   equipment: {
-    code: [React, Angular, Typescript, Tailwind],
+    code: [React, Vite, Next.js, Typescript, Tailwind],
     platforms: [Firebase, Supabase]
   }
   awesome: true
