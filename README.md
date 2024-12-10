@@ -6,7 +6,9 @@ The name's <i>DrenSkywalker</i> but you can call me <b>Dren</b> ~
 
 I'm currently employed and I am a <b>front-end blockchain</b> developer. Feel free to contact me if you need ✨
 
-<div align="center"></br><img src="https://img.shields.io/badge/animals-green?style=flat&logo=furrynetwork&logoColor=white"> <img src="https://img.shields.io/badge/psychology-ff69b4?style=flat&logo=octopusdeploy&logoColor=white"> <img src="https://img.shields.io/badge/videogames-red?style=flat&logo=retroarch&logoColor=white"></div>
+<div align="center"></br><img src="https://img.shields.io/badge/animals-green?style=flat&logo=furrynetwork&logoColor=white"> <img src="https://img.shields.io/badge/psychology-ff69b4?style=flat&logo=octopusdeploy&logoColor=white"> <img src="https://img.shields.io/badge/videogames-red?style=flat&logo=retroarch&logoColor=white"></div></br></br>
+
+<div align="center"><a href="https://julesverse.space">Find me here</a></div>
 
 
 ## 💫 Character Sheet
@@ -14,15 +16,21 @@ I'm currently employed and I am a <b>front-end blockchain</b> developer. Feel fr
 ```Javascript
 const dren = {
   planet: "Earth",
-  specie: "Humanoid Magic Alien",
-  class: "Front-End Devcaster",
-  pronouns: "she/her" | "he/him" | "they/them",
-  languages: [HTML, CSS, Sass, Javascript],
-  equipment: {
-    code: [React, Vite, Next.js, Typescript, Tailwind],
-    platforms: [Firebase, Supabase]
+  specie: "Humanoid Synthetic Hybrid",
+  class: "Virtual Artificer",
+  specializations: {
+    "frontend-developer": "3 Years",
+    "ui-ux-designer": "3 Years",
+    "3d-artist": "1 Year"
   },
-  awesome: true
+  knowledges: {
+    languages: [HTML, CSS, Sass, Javascript],
+    code: [React, Vite, Next.js, Typescript, Tailwind, Astro],
+    tools: [Firebase, Supabase],
+    design: [Figma, Blender]
+  },
+  pronouns: "she/her" | "he/him" | "they/them",
+  awesome: true,
 }
 ```
   
